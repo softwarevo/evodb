@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "evodb",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d8aa1940-5fa2-4413-bb5d-776162470d0c",
+			"database_name": "evoDB"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
